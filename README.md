@@ -19,6 +19,5 @@ Full-stack web projects, SaaS ideas, and tools that solve real-world problems fo
 
 ### Always Learning, always improving...
 
----
-[![](https://komarev.com/ghpvc/?username=MuhammadHaroon5&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
