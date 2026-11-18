@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 # 💫 About Me:
 Full-stack web projects, SaaS ideas, and tools that solve real-world problems for freelancers and small businesses.<br>Improving system design, scaling applications, and learning best practices for production-level apps.<br>Advanced backend development, authentication systems, and building scalable web applications using modern technologies.<br>Full stack development, React, Node.js, building portfolios, or how to turn ideas into real working products.<br>I enjoy turning simple ideas into real products — and yes, I debug faster with tea 🍵
